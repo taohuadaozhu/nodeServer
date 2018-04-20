@@ -1,0 +1,21 @@
+{
+    "name": "bigdataback",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "dev": "node app"
+    },
+    "author": "shihuimei",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.3",
+        "body-parser": "^1.17.1",
+        "express-session": "^1.15.2",
+        "moment": "^2.18.1",
+        "multer": "^1.3.0",
+        "bcryptjs": "^2.4.3",
+        "mysql": "^2.13.0"
+    },
+    "devDependencies": {}
+}
